@@ -1,6 +1,6 @@
 class Duck:
     def sound(self):
-        print("Oaack")
+        print("Qarck")
 
 class Dog:
     def sound(self):
