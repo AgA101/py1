@@ -26,6 +26,7 @@ class PokeAPI:
         result = requests.get(url).json()
         return result["name"]
 
-a = PokeAPI()
-b = BasePokemon(a.get_pokemon("245"))
+
+
+b = BasePokemon(PokeAPI().get_pokemon("245"))
 print(b)
