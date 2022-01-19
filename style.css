@@ -1,0 +1,16 @@
+p{
+    color: red; background-color: darkblue; font-family: 'Comic Sans MS';
+    padding: 8px;
+    border: 8px green solid;
+    margin: 16px;
+}
+.primary{
+    color: #ffffff; background-color: darkblue; font-family: 'Comic Sans MS';
+}
+#aga{
+    background-color: purple
+}
+#aga p {
+    padding: 8px;
+    border: 16px yellow dashed;
+}
