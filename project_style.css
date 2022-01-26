@@ -1,0 +1,12 @@
+p {
+    font-size: 24px;
+}
+
+p{
+    color: #e4eb21;
+    background-color: #8e7ea8;
+    font-family: 'Caveat', cursive;
+    padding: 8px;
+    border: 8px #e4eb21 solid;
+    margin: 16px;
+}
